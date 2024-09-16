@@ -2,7 +2,7 @@
   "name": "desarrollo-frontend-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http:/eddyGH83.github.io/my-react-app",
+  "homepage": "https://eddygh83.github.io/my-react-app/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",

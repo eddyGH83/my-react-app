@@ -68,7 +68,7 @@ function Dictionary() {
             <div className="row justify-content-center">
                 <div className="col-md-12">
                     <h3>DICTIONARY USIP</h3>
-                    <p>Este <strong> modulo (diccionario) </strong> corresponde al <strong>recuperatorio del </strong> <strong style={{ color: 'red' }} > modulo-7 </strong> ReactJS. <strong>URL:</strong>  </p>
+                    <p>Este <strong> modulo (diccionario) </strong> corresponde al <strong>recuperatorio del </strong> <strong style={{ color: 'red' }} > modulo-7 </strong> ReactJS. <strong>URL: </strong>https://eddygh83.github.io/my-react-app/</p>
 
                     <div className="card">
                         <div className="card-header">
