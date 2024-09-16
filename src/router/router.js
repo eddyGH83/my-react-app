@@ -8,7 +8,7 @@ import Dictionary from "../screens/Dictionary/Dictionary";
 import App from "../App";
 
 // Usar la variable de entorno directamente
-const basename = '/desarrollo-frontend-react';
+const basename = '/my-react-app';
 //const basename = process.env.NODE_ENV === 'production' ? '/desarrollo-frontend-react' : '/';
 
 const routes = createBrowserRouter([
