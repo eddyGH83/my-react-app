@@ -3,6 +3,7 @@ import { createBrowserRouter } from 'react-router-dom';
 import Default from "../screens/Default";
 import Product from "../screens/Product";
 import LoginForm from "../screens/Forms/LoginForm";
+import Dictionary from "../screens/Dictionary/Dictionary";
 
 import App from "../App";
 
@@ -26,6 +27,10 @@ const routes = createBrowserRouter([
             {
                 path: 'login',
                 element: <LoginForm />,
+            },
+            {
+                path: 'dictionary',
+                element: <Dictionary />,
             },
         ]
     }
